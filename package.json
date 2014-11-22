@@ -1,0 +1,23 @@
+{
+  "name": "dimmer-johnny5",
+  "version": "1.0.0",
+  "description": "A small Arduino LED dimmer project.",
+  "main": "index.js",
+  "dependencies": {
+    "johnny-five": "^0.8.28"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mala23/dimmer-johnny5.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mala23/dimmer-johnny5/issues"
+  },
+  "homepage": "https://github.com/mala23/dimmer-johnny5"
+}
